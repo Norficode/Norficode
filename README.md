@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Norficode, but you can call me Norfic.
 - 👀 I’m interested in Education, Game Production, and Game Development.
 - 🌱 I’m currently learning.
-- 💞️ I’m stream on Twitch at: https://www.twitch.tv/norficode
+- 💞️ I stream on Twitch at: https://www.twitch.tv/norficode
 <!---
 - 📫 How to reach me ...
 --->
